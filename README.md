@@ -49,7 +49,7 @@
 ## 설치 및 실행
 
 ### GitHub Pages
-https://xcixcode.github.io/Simple-Web-Coin-Toss/
+https://xcixpkim.github.io/Simple-Web-Coin-Toss/
 
 ### 로컬에서 실행
 1. `index.html` 파일을 다운로드하거나 코드를 복사합니다.  
